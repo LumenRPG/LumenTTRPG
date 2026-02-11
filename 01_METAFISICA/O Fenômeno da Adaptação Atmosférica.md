@@ -1,0 +1,3 @@
+#personagem 
+O Núcleo de Energia não pode ser considerado apenas como bateria, e deve ser tratado como uma espécie de órgão respiratório. Regiões com atmosferas pesadas causam a retração desse núcleo para a proteção dos órgãos.
+Mecanicamente, em regiões de Atmosfera Abissal, isso causa a perda de PE por hora. Se o PE chegar a 0, o personagem fica com [[Asfixia Energética]] até <INSERIR FORMA DE ANULAR A CONDIÇÃO> e começa a sofrer [[Mutação]].

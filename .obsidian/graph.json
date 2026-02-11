@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#povo",
+      "color": {
+        "a": 1,
+        "rgb": 14051328
+      }
+    },
+    {
+      "query": "tag:#condicao",
+      "color": {
+        "a": 1,
+        "rgb": 4109494
+      }
+    },
+    {
+      "query": "tag:#personagem",
+      "color": {
+        "a": 1,
+        "rgb": 4456703
+      }
+    },
+    {
+      "query": "tag:#historia",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "tag:#faunaflora",
+      "color": {
+        "a": 1,
+        "rgb": 5562450
+      }
+    },
+    {
+      "query": "tag:#servivo",
+      "color": {
+        "a": 1,
+        "rgb": 15270157
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 0.997109207708779,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.515625,
+  "repelStrength": 2.91666666666667,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 1.1310453602723065,
+  "close": false
+}

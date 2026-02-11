@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"0a25528ff967ebfc","type":"group","x":180,"y":-200,"width":1180,"height":440,"label":"Conexão Atmosférica"},
+		{"id":"f5f10641c85533c6","type":"group","x":-1020,"y":-200,"width":905,"height":340,"label":"Conexão biológica"},
+		{"id":"645d4f584b991d32","type":"text","text":"Conexão Biólogica, O Corpo","x":-380,"y":-180,"width":250,"height":60},
+		{"id":"aa96b59ec3a45902","type":"text","text":"Fauna","x":-660,"y":-180,"width":250,"height":60},
+		{"id":"50325ecc1d7b8729","type":"text","text":"A manifestação física da Vontade,a [[Energocinese]] algo como o Haki em one piece.","x":-380,"y":-100,"width":250,"height":100},
+		{"id":"9e6d17a9fc67b9b9","type":"text","text":"Aelorianos, por exemplo, usam para interagir com o ar (voar, etc)","x":-660,"y":-100,"width":250,"height":100},
+		{"id":"94fe4d1e10cb9aad","type":"file","file":"04_ENCICLOPEDIA_VIVA/Energissuga.md","x":-1000,"y":-180,"width":320,"height":300},
+		{"id":"88cf21ef6dada974","type":"text","text":"O Núcleo de Energia","x":-100,"y":-180,"width":250,"height":60},
+		{"id":"198a05049651ab6b","type":"text","text":"Medido em PE (Pontos de Energia)","x":-76,"y":-258,"width":202,"height":58},
+		{"id":"9aff9adb4a291743","type":"text","text":"Conexão Elemental, A Alma","x":-100,"y":-100,"width":250,"height":60},
+		{"id":"e5122461a6c9b69d","type":"text","text":"Teoria dos 12 elementos / Ciclo Elemental","x":-100,"y":-19,"width":250,"height":60},
+		{"id":"88c7e5848435bb87","type":"text","text":"Conexão Atmosférica, O Mundo","x":200,"y":-180,"width":282,"height":60},
+		{"id":"8f2c1d16961919a8","type":"text","text":"Atmosferas diferentes por região do mundo","x":200,"y":-90,"width":282,"height":60},
+		{"id":"77cc5a9455a10f57","type":"text","text":"O núcleo se manifesta  de forma diferente em ambientes diferentes","x":200,"y":-9,"width":282,"height":99},
+		{"id":"b56b1d19adf9bfe1","type":"text","text":"Civilizações","x":-100,"y":62,"width":250,"height":57},
+		{"id":"bca0bde42e48bcd6","type":"file","file":"03_POVOS_E_CULTURAS/As Colmeias de Âmbar.md","x":-240,"y":160,"width":400,"height":400},
+		{"id":"d410c1c50e84ec38","type":"file","file":"01_METAFISICA/O Fenômeno da Adaptação Atmosférica.md","x":500,"y":-180,"width":400,"height":400},
+		{"id":"6e149b9a2dc192de","x":940,"y":-180,"width":400,"height":400,"type":"file","file":"01_METAFISICA/Mutação.md"}
+	],
+	"edges":[
+		{"id":"ed6a57fd58a3a823","fromNode":"88cf21ef6dada974","fromSide":"bottom","toNode":"9aff9adb4a291743","toSide":"top"},
+		{"id":"bedb9c7f9377bb1e","fromNode":"645d4f584b991d32","fromSide":"bottom","toNode":"50325ecc1d7b8729","toSide":"top"},
+		{"id":"b8a7da13e8a63d3e","fromNode":"50325ecc1d7b8729","fromSide":"left","toNode":"9e6d17a9fc67b9b9","toSide":"right"},
+		{"id":"882d3f1ca6c30328","fromNode":"9aff9adb4a291743","fromSide":"bottom","toNode":"e5122461a6c9b69d","toSide":"top"},
+		{"id":"94105bb22075ce2d","fromNode":"88cf21ef6dada974","fromSide":"top","toNode":"198a05049651ab6b","toSide":"bottom"},
+		{"id":"cca1141351e1935e","fromNode":"88c7e5848435bb87","fromSide":"bottom","toNode":"8f2c1d16961919a8","toSide":"top"},
+		{"id":"d8fab008bf7e99a7","fromNode":"645d4f584b991d32","fromSide":"left","toNode":"aa96b59ec3a45902","toSide":"right"},
+		{"id":"e20e6a6b60ffe025","fromNode":"e5122461a6c9b69d","fromSide":"bottom","toNode":"b56b1d19adf9bfe1","toSide":"top"},
+		{"id":"f92c9e98672d8a40","fromNode":"b56b1d19adf9bfe1","fromSide":"bottom","toNode":"bca0bde42e48bcd6","toSide":"top"},
+		{"id":"74497fdd56bf6357","fromNode":"88cf21ef6dada974","fromSide":"right","toNode":"88c7e5848435bb87","toSide":"left"},
+		{"id":"d77766be2e5d02c8","fromNode":"8f2c1d16961919a8","fromSide":"bottom","toNode":"77cc5a9455a10f57","toSide":"top"},
+		{"id":"86401bd7f95d263e","fromNode":"77cc5a9455a10f57","fromSide":"right","toNode":"d410c1c50e84ec38","toSide":"left"},
+		{"id":"0bdc3b01872a58c6","fromNode":"88cf21ef6dada974","fromSide":"left","toNode":"645d4f584b991d32","toSide":"right"},
+		{"id":"1d70185b394c5c1d","fromNode":"aa96b59ec3a45902","fromSide":"top","toNode":"94fe4d1e10cb9aad","toSide":"top"},
+		{"id":"cc448cfd4eb1f70f","fromNode":"d410c1c50e84ec38","fromSide":"right","toNode":"6e149b9a2dc192de","toSide":"left"}
+	]
+}

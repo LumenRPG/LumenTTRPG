@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "30c5eb279404b6ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "a47140eadd454b9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa4f1071c24cf9be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_SISTEMA/00_01_CONDICOES/Condições.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Condições"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fba6a22478888c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a021fae733817ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d433ba94294643fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "95d44b5523d51da2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c8ebe4291cd289ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33255a8b58965950",
+    "type": "split",
+    "children": [
+      {
+        "id": "de79f6cedc647280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fec1babaa45c7a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Main"
+            }
+          },
+          {
+            "id": "eca854300887df5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fde4375deb932322",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "95631fa603524a1f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "81baed7ec06cc1d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "aa4f1071c24cf9be",
+  "lastOpenFiles": [
+    "00_SISTEMA/00_01_CONDICOES/Asfixia Energética.md",
+    "01_METAFISICA/Mutação.md",
+    "01_METAFISICA/O Fenômeno da Adaptação Atmosférica.md",
+    "03_POVOS_E_CULTURAS/Litodermes.md",
+    "01_METAFISICA/Energocinese.md",
+    "03_POVOS_E_CULTURAS/As Colmeias de Âmbar.md",
+    "03_POVOS_E_CULTURAS/POVOS_E_CULTURAS.md",
+    "03_POVOS_E_CULTURAS/Aelorianos.md",
+    "04_ENCICLOPEDIA_VIVA/Nargaruga.md",
+    "Main.canvas",
+    "04_ENCICLOPEDIA_VIVA/Fauna e Flora.md",
+    "00_SISTEMA/Personagem.md",
+    "04_ENCICLOPEDIA_VIVA/Energissuga.md",
+    "00_SISTEMA/00_01_CONDICOES/Condições.md",
+    "06_RACAS",
+    "Untitled 1.md",
+    "Untitled.base",
+    "00_SISTEMA/00_02_MUTACOES",
+    "00_SISTEMA/00_01_CONDICOES",
+    "05_INSPIRACOES",
+    "04_ENCICLOPEDIA_VIVA",
+    "03_POVOS_E_CULTURAS",
+    "02_ATLAS",
+    "01_METAFISICA",
+    "00_SISTEMA",
+    "yeye.md",
+    "teste.md"
+  ]
+}
